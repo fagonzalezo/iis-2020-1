@@ -15,7 +15,7 @@ image:
 		</tr>
 		<small>
 			<tr>
-				<td>Ago 26</td>
+				<td>Mar 2</td>
 				<td>1. Introducción</td>
 				<td>
 					[Russell10] Chap 1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf">slides</a>)<br>
@@ -27,7 +27,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 2</td>
+				<td>Mar 9</td>
 				<td>1.3 Agentes inteligentes<br>
 				    2.1 Agentes y Búsquedas<br>
 				</td>
@@ -39,7 +39,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 9-16</td>
+				<td>Mar 16-23</td>
 				<td>2.4 Búsqueda no informada<br>
 					2.5 Búsqueda informada<br> 
 				</td>
@@ -53,7 +53,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 23</td>
+				<td>Mar 30</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 				</td>
@@ -66,7 +66,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 30</td>
+				<td>Abr 13</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -81,7 +81,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 7</td>
+				<td>Abr 20</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
@@ -92,7 +92,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 14</td>
+				<td>Abr 27</td>
 				<td>
 					3.2.4 Support vector machines<br>
 				</td>
@@ -104,7 +104,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 21</td>
+				<td>May 4</td>
 				<td>
 					3.2.5 Random Forest<br>
 				</td>
@@ -116,7 +116,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 28-Nov 4</td>
+				<td>May 11-18</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
@@ -132,7 +132,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 11-18</td>
+				<td>Jun 1</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -149,7 +149,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Nov 25</td>
+				<td>Jun 8</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -166,7 +166,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Dic 2</td>
+				<td>Jun 15</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
@@ -181,13 +181,13 @@ image:
 				</td>				
 			</tr>
 			<tr>
-				<td>Dic 18</td>
+				<td>Jun 22</td>
 				<td>
 				</td>
 				<td>
 				</td>
 				<td>
-					<a href= "https://fagonzalezo.github.io/iis-2019-2/final_project.pdf">Final Project</a><br>
+					Final Project</a><br>
 				</td>				
 			</tr>
 		</small>
