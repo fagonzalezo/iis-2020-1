@@ -187,7 +187,7 @@ image:
 				<td>
 				</td>
 				<td>
-					Final Project</a><br>
+					Final Project<br>
 				</td>				
 			</tr>
 		</small>
