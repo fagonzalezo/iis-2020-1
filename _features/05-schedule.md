@@ -29,19 +29,28 @@ image:
 			<tr>
 				<td>Mar 9</td>
 				<td>1.3 Agentes inteligentes<br>
-				    2.1 Agentes y Búsquedas<br>
 				</td>
 				<td>
 					[Russell10] Chap 2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>) <br>
-					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
 			<tr>
-				<td>Mar 16-23</td>
-				<td>2.4 Búsqueda no informada<br>
-					2.5 Búsqueda informada<br> 
+				<td>Mar 16</td>
+				<td>2.1 Agentes y Búsquedas<br>
+					2.4 Búsqueda no informada<br>
+				</td>
+				<td>
+					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Mar 23</td>
+				<td>
+				2.5 Búsqueda informada<br> 
 				</td>
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
@@ -49,7 +58,6 @@ image:
 					<a href= "https://nbviewer.jupyter.org/github/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
-				  <a href= "https://colab.research.google.com/drive/1XLKeS3yCSJBzpuGiOIBhYMwaOEtZLLlE"> Práctica 1</a>
 				</td>
 			</tr>
 			<tr>
@@ -77,7 +85,6 @@ image:
 					<a href= "https://colab.research.google.com/drive/1s_cu8cK4EaUuaDXoggWF30YNo3G_Ibx2">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/1dmyU2qhjOzXqS_tMhdpX59Ulnqi3MZu6">Práctica 2</a><br>
 				</td>
 			</tr>
 			<tr>
@@ -127,8 +134,6 @@ image:
 					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a><br>
 				</td>
 				<td>
-				<a href= "/#/features/06-deliverables">Entrega 1</a><br>
-				<a href= "/#/features/06-deliverables">Entrega 2</a><br>
 				</td>
 			</tr>
 			<tr>
@@ -144,8 +149,6 @@ image:
 					<a href= "https://colab.research.google.com/drive/1C8MOfKYY-Pb9dlNBli8pF8YYpYVCJuhp">Notebook: CNN for image classification in Keras</a><br>
 				</td>
 				<td>
-				<a href= "/#/features/06-deliverables">Entrega 3</a><br>
-				<a href= "/#/features/06-deliverables">Entrega 4</a><br>
 				</td>
 			</tr>
             <tr>
@@ -162,7 +165,6 @@ image:
 					<a href= "https://colab.research.google.com/drive/1hSCPgGOQ-deajNzaOQzHdUozsi8bMxfO">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
-				<a href= "/#/features/06-deliverables">Entrega 5</a><br>
 				</td>
 			</tr>
 			<tr>
