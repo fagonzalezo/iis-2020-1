@@ -63,6 +63,7 @@ image:
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1kf8ruDF0MfdKIqfxO5xD1rgCq_p210vf/view?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
