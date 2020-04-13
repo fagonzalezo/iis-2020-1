@@ -73,9 +73,10 @@ image:
 					3.2 Aprendizaje supervisado<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1HJyA5e_gnA8TfFklz69PlviPrbDVoITG/view?usp=sharing">Video clase 1/04/2020</a> <br>
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)<br>
-					<a href= "https://colab.research.google.com/drive/1CukHNhdw3IPTGXUGCXk4a5kWaqRolyDN">Notebook: Clasificación binaria usando un modelo lineal</a><br>
+					<a href= "https://colab.research.google.com/drive/1VbuNvx8g3p93bKR7ZUccrb8c5vEzVQdS">Notebook: Clasificación binaria usando un modelo lineal</a><br>
 				</td>
 				<td>
 				</td>
