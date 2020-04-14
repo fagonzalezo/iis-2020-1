@@ -88,6 +88,7 @@ image:
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/12r9oOtPfOPl3pKpUrBNgI8EbHmALgmWI/view?usp=sharing">Video clase 13/04/2020</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					[AI-edX] Naïve Bayes (<a href= "http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">slides</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1s_cu8cK4EaUuaDXoggWF30YNo3G_Ibx2">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
