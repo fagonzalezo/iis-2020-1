@@ -90,6 +90,8 @@ image:
 				<td>
 					<a href= "https://drive.google.com/file/d/12r9oOtPfOPl3pKpUrBNgI8EbHmALgmWI/view?usp=sharing">Video clase 13/04/2020</a> <br>
 					<a href= "https://drive.google.com/file/d/1tZDMNzApXTPwN1adMnJDlalZffbLJfDV/view?usp=sharing">Video clase 15/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">Video clase 20/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1wKqV_eqns99jLLf7hUR7P5yMSrt9TVgR/view?usp=sharing">Video clase 22/04/2020</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1HIRYXNv9Qj10ja4GrCfRyq3RYBVIO_Ck">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
@@ -103,7 +105,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1drbvvWDqRHiehgYpceDVRMRkKfZwLYfW">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
+					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
 				<td>
 				</td>
