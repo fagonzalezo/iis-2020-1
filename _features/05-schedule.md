@@ -105,6 +105,7 @@ image:
 				</td>
 				<td>
 					<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view?usp=sharing">Video clase 27/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1IRhxupbKaSO0ZvewBq4MobITk_rcMM1z/view?usp=sharing">Video clase 29/04/2020</a> <br>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
