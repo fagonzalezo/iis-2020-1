@@ -113,13 +113,13 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Abr 27</td>
+				<td>May 4</td>
 				<td>
 					3.2.4 Support vector machines<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1bNOYyRK1b83CO1KD6WWgiOog6omBSRqN">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
+					<a href= "https://colab.research.google.com/drive/1fGt27Syq8SmGGb2j7uLxCJxcmn1Ysd6d">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 				</td>
 				<td>
 				</td>
@@ -131,7 +131,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Sect 18.10 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1n3mWmyDgwpf5rZwMi1_DixniA3VXcBm8">Notebook: Random Forests y exploración aleatorizada</a><br>
+					<a href= "https://drive.google.com/file/d/1v4gw_yyaIift4vdY-1IUdwswpHesb4o4/view?usp=sharing">Notebook: Random Forests y exploración aleatorizada</a><br>
 				</td>
 				<td>
 				</td>
