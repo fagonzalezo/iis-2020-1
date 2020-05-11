@@ -145,6 +145,7 @@ image:
 					<a href= "https://www.youtube.com/watch?v=KCMHzif64CM">Video clase redes neuronales (2018-2)</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
+					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
 					<a href= "https://colab.research.google.com/drive/1DTfTwf-vEBHYxeIlbvPxcpWqlzEE2mbd">Notebook: Redes Neuronales</a><br>
 					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a><br>
 				</td>
