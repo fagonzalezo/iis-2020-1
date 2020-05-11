@@ -19,7 +19,7 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
   * Tareas de Programación: 1, 2
   * Link: [file request](https://www.dropbox.com/request/WxhyhBN81fKq1fKn4NsW)
 * **Entrega 2** (22/05/2020):
-  * Cuestionarios: 3
+  * Cuestionarios: 3, 4
   * Tareas de Programación: 3, 4
   * Link: [file request](https://www.dropbox.com/request/yIq5uiKopogkff8ZBNkM)
 
