@@ -118,6 +118,7 @@ image:
 					3.2.4 Support vector machines<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1wwlSrqEyKlXyUAUzlyqjkgjHQ8xyTeSK/view?usp=sharing">Video clase 4/05/2020</a> <br>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1fGt27Syq8SmGGb2j7uLxCJxcmn1Ysd6d">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 				</td>
@@ -144,7 +145,7 @@ image:
 					<a href= "https://www.youtube.com/watch?v=KCMHzif64CM">Video clase redes neuronales (2018-2)</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
-					<a href= "https://colab.research.google.com/drive/1yO5UYzlFUEUyCvtNCWkPKTBPZJOBUZuU">Notebook: Redes Neuronales</a><br>
+					<a href= "https://colab.research.google.com/drive/1DTfTwf-vEBHYxeIlbvPxcpWqlzEE2mbd">Notebook: Redes Neuronales</a><br>
 					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a><br>
 				</td>
 				<td>
