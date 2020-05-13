@@ -138,10 +138,11 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 11-18</td>
+				<td>May 11</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1e7FMcB88LumVE8r6LuCmTljo1CwDxnS2/view?usp=sharing">Video clase 11/05/2020</a> <br>
 					<a href= "https://www.youtube.com/watch?v=KCMHzif64CM">Video clase redes neuronales (2018-2)</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
@@ -153,7 +154,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 1</td>
+				<td>May 18-25</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -168,7 +169,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Jun 8</td>
+				<td>Jun 1</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -184,7 +185,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 15</td>
+				<td>Jun 8</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
@@ -199,7 +200,7 @@ image:
 				</td>				
 			</tr>
 			<tr>
-				<td>Jun 22</td>
+				<td>Jun 15</td>
 				<td>
 				</td>
 				<td>
