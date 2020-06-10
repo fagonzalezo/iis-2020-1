@@ -173,7 +173,7 @@ image:
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
-				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
+				Deep learning frameworks (<a href= "https://github.com/fagonzalezo/ml-2020-1/raw/master/ML%20Deep%20Learning%20Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 				</td>
