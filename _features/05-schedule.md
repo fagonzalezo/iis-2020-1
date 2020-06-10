@@ -154,7 +154,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 18-25</td>
+				<td>May 18-Jun 1</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -168,8 +168,20 @@ image:
 				<td>
 				</td>
 			</tr>
+			<tr>
+				<td>Jun 8</td>
+				<td>3.2.7 Deep learning<br>
+				</td>
+				<td>
+				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
+				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
+				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
             <tr>
-				<td>Jun 1</td>
+				<td>Jun 15</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -185,7 +197,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Jun 8</td>
+				<td>Jun 22</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
@@ -200,7 +212,7 @@ image:
 				</td>				
 			</tr>
 			<tr>
-				<td>Jun 15</td>
+				<td>Jun 29</td>
 				<td>
 				</td>
 				<td>
