@@ -213,13 +213,13 @@ image:
 				</td>				
 			</tr>
 			<tr>
-				<td>Jun 29</td>
+				<td>July 6</td>
 				<td>
 				</td>
 				<td>
 				</td>
 				<td>
-					Final Project<br>
+					<a href= "finalProject.pdf">Final Project</a><br>
 				</td>				
 			</tr>
 		</small>
