@@ -15,19 +15,19 @@ image:
 		</tr>
 		<small>
 			<tr>
-				<td>Aug 24</td>
+				<td>Mar 2</td>
 				<td>1. Introducción</td>
 				<td>
 					[Russell10] Chap 1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf">slides</a>)<br>
 					[AI-edX] Introduction to AI (<a href= "http://ai.berkeley.edu/slides/Lecture%201%20--%20Introduction/SP14%20CS188%20Lecture%201%20--%20Introduction.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/b414886f442a41e4b5fd0408de837e53/">video</a>)<br>
-					<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/catedra-cc-unal.pdf">Inteligencia Artificial</a>, Fabio González <br>
-					<a href= "https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn">The Wonderful and Terrifying Implications of Computers That Can Learn</a>, Jeremy Howard, TED	<br>
+					<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/catedra-cc-unal.pdf">Inteligencia Artificial</a>, Fabio González
+					<a href= "https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn">The Wonderful and Terrifying Implications of Computers That Can Learn</a>, Jeremy Howard, TED	
 				</td>
 				<td>
 				</td>
 			</tr>
 			<tr>
-				<td>Aug 31</td>
+				<td>Mar 9</td>
 				<td>1.3 Agentes inteligentes<br>
 				</td>
 				<td>
@@ -37,36 +37,43 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 7</td>
+				<td>Mar 16</td>
 				<td>2.1 Agentes y Búsquedas<br>
 					2.4 Búsqueda no informada<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1sWQ1inl8Y6_7gqX1TMWeuQkVpJkwgcRD/view?usp=sharing">Video clase 16/03/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1Q0eoNyL9PmtJ0N2l23ys_VWqzb87F4PQ/view?usp=sharing">Video clase 18/03/2020</a> <br>
 					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
+				<a href= "https://colab.research.google.com/drive/1hUpFolaEjAgvQiFkxrlPrefDaoL6K7YK">Práctica 1</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 14</td>
+				<td>Mar 23</td>
 				<td>
 				2.5 Búsqueda informada<br> 
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1oE50DWIv5EAMmHj0OF05ElCAKDI71s2E/view?usp=sharing">Video clase 25/03/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1WuVReCWmL7sVwKkJUfS3GSPoJ6h8mkJu/view?usp=sharing">Video clase 30/03/2020</a> <br>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					[AI-edX] A* Search and Heuristics (<a href= "http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1kf8ruDF0MfdKIqfxO5xD1rgCq_p210vf/view?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 21</td>
+				<td>Mar 30</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1HJyA5e_gnA8TfFklz69PlviPrbDVoITG/view?usp=sharing">Video clase 1/04/2020</a> <br>
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1VbuNvx8g3p93bKR7ZUccrb8c5vEzVQdS">Notebook: Clasificación binaria usando un modelo lineal</a><br>
@@ -75,12 +82,16 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 28</td>
+				<td>Abr 13-20</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/12r9oOtPfOPl3pKpUrBNgI8EbHmALgmWI/view?usp=sharing">Video clase 13/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1tZDMNzApXTPwN1adMnJDlalZffbLJfDV/view?usp=sharing">Video clase 15/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">Video clase 20/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1wKqV_eqns99jLLf7hUR7P5yMSrt9TVgR/view?usp=sharing">Video clase 22/04/2020</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1HIRYXNv9Qj10ja4GrCfRyq3RYBVIO_Ck">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
@@ -89,10 +100,12 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 5</td>
+				<td>Abr 27</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view?usp=sharing">Video clase 27/04/2020</a> <br>
+					<a href= "https://drive.google.com/file/d/1IRhxupbKaSO0ZvewBq4MobITk_rcMM1z/view?usp=sharing">Video clase 29/04/2020</a> <br>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
@@ -100,11 +113,12 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 12</td>
+				<td>May 4</td>
 				<td>
 					3.2.4 Support vector machines<br>
 				</td>
 				<td>
+					<a href= "https://drive.google.com/file/d/1wwlSrqEyKlXyUAUzlyqjkgjHQ8xyTeSK/view?usp=sharing">Video clase 4/05/2020</a> <br>
 					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1fGt27Syq8SmGGb2j7uLxCJxcmn1Ysd6d">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 				</td>
@@ -112,7 +126,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 19</td>
+				<td>May 4</td>
 				<td>
 					3.2.5 Random Forest<br>
 				</td>
@@ -124,7 +138,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 26</td>
+				<td>May 11</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
@@ -140,7 +154,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 2-Nov 16</td>
+				<td>May 18-Jun 1</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -155,7 +169,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 23</td>
+				<td>Jun 8</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -168,7 +182,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Nov 30</td>
+				<td>Jun 15</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -184,7 +198,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Dic 7</td>
+				<td>Jun 22</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
@@ -199,12 +213,13 @@ image:
 				</td>				
 			</tr>
 			<tr>
-				<td>Dic 14</td>
+				<td>July 6</td>
 				<td>
 				</td>
 				<td>
 				</td>
 				<td>
+					<a href= "finalProject.pdf">Final Project</a><br>
 				</td>				
 			</tr>
 		</small>
